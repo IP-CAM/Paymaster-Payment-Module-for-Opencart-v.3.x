@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+	<name>PayMaster for Opencart 3.x</name>
+	<code>PayMaster</code>
+	<version>1.0</version>
+	<author>PayMaster</author>
+	<link></link>
+	<base_service_url></base_service_url>
+	<display_service_name></display_service_name>
+	<send_receipt_data>0</send_receipt_data>
+</modification>
