@@ -9,9 +9,11 @@
 
     Filling example:
 
-    > &lt;link&gt;https://paymaster24.com&lt;/link&gt;  
-    > &lt;base_service_url&gt;https://psp.paymaster24.com&lt;/base_service_url&gt;  
-    > &lt;display_service_name&gt;PayMaster (bank cards, electronic money and more)&lt;/display_service_name&gt;
+    ```xml
+    <link>https://paymaster24.com</link>
+    <base_service_url>https://psp.paymaster24.com</base_service_url>
+    <display_service_name>PayMaster (bank cards, electronic money and more)</display_service_name>
+    ```
 
 2. Zip the resulting *install.xml* and *upload* folder. Name the archive file **paymaster.ocmod.zip**.
 
